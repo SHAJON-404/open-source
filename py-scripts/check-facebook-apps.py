@@ -6,7 +6,7 @@ Scrapes active and inactive applications authorized on a Facebook account.
 
 API Developer: SHAH MAKHDUM SHAJON
 GitHub: SHAJON-404
-Telegram: https://t.me/SHAJON404_OFFICIAL
+Telegram: https://t.me/SHAJON
 """
 
 import json
